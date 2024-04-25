@@ -8,6 +8,8 @@ Empty Cassette Scripts
 1. For each sale, a dice is rolled to determine if the seller and buy receive a Early Access Token
 1. Repeat
 
+The script records transaction in a log file and only considers new transactions.
+
 ## Prerequisite
 
 1. Nautilus NFT Marketplace
