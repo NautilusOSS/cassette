@@ -10,6 +10,12 @@ Empty Cassette Scripts
 
 The script records transaction in a log file and only considers new transactions.
 
+## How EA Token options work
+
+The [ulujs](https://github.com/temptemp3/ulujs) library has a method called `setOptins` that can be used to add optins to a transaction group. We check if the collection id is for empty cassette. If it is we include a EA Token optin to airdrop cassette winners later after sale.
+
+Source: https://github.com/NautilusOSS/nautilus-interface/blob/main/src/pages/Account/index.tsx#L715
+
 ## Files
 
 1. index-cassette.mjs   
