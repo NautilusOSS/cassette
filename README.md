@@ -10,6 +10,13 @@ Empty Cassette Scripts
 
 The script records transaction in a log file and only considers new transactions.
 
+## Files
+
+1. index-cassette.mjs   
+Send EA Token to seller or buys of empty cassette following rules if dice is right
+1. index-cassette-high.mjs  
+Send EA Token to seller with highest sale in 24hrs
+
 ## Prerequisite
 
 1. Nautilus NFT Marketplace
