@@ -18,3 +18,4 @@ The script records transaction in a log file and only considers new transactions
 ## Requirments
 
 1. NodeJS
+1. .env file
